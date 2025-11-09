@@ -14,7 +14,7 @@ The CMS needs a relational database that works smoothly with PHP and XAMPP for a
 * SQLite
 
 ## Decision Outcome
-Chosen option: **MySQL**, because it integrates cleanly with PHP/XAMPP and I can move quickly using tools I already know.
+Chosen option: **MySQL**, because it integrates with PHP/XAMPP and I can move quickly using tools I already know.
 
 ## Consequences
 * Good, because development is fast and setup is minimal. 
@@ -28,4 +28,4 @@ Local tests on XAMPP were successful.
 
 * Good, because it’s common with PHP, easy to host, and has phpMyAdmin. 
 * Neutral, because it can migrate later if required. 
-* Bad, because some advanced features are limited.
+* Bad, because some advanced extensions features are limited.
