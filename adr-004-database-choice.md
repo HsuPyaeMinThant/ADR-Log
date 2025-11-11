@@ -18,7 +18,7 @@ Chosen option: **MySQL**, because it integrates with PHP/XAMPP and I can move qu
 
 ## Consequences
 * Good, because development is fast and setup is minimal. 
-* Bad, because advanced features (e.g., JSON indexing, extensions) are stronger in PostgreSQL.
+* Bad, because advanced features (e.g., JSON, extensions) are stronger in PostgreSQL.
 
 ## Confirmation
 Local tests on XAMPP were successful. 
